@@ -2,7 +2,7 @@
 
 [![Go](https://img.shields.io/badge/-Go-000?&logo=go)](https://golang.org/)
 
-keep everything **Simple and extensible**.
+keep **Simple and extensible**.
 
 * :airplane: [simple](https://github.com/fregie/simple) - A platform to manage multiple VPN services.(Support shadowsocks,trojan for now)
 * 🏍️ [mpx](https://github.com/fregie/mpx) - Connection multiplexing protocol based on Golang `net.Conn`. Aggregate bandwidth and reduce latency of connecting
