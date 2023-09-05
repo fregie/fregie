@@ -10,5 +10,5 @@ keep **Simple and extensible**.
 * 🐴 [trojan-go](https://github.com/fregie/trojan-go) - forked from https://github.com/p4gefau1t/trojan-go. fix bugs and enhanced functionality.
 * :framed_picture: [pho](https://github.com/fregie/pho) - A serverless application for viewing and synchronizing photos to cloud storage
 
-[![fregie's github stats](https://github-readme-stats.vercel.app/api?username=fregie&count_private=true&show_icons=true&theme=vue-dark&hide_title=true)](https://github.com/fregie)
+[![fregie's github stats](https://github-readme-stats.vercel.app/api?username=fregie&count_private=true&show_icons=true&theme=vue-dark&hide_title=true&hide_rank=true)](https://github.com/fregie)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fregie&layout=compact&theme=vue-dark)
